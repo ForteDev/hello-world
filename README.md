@@ -1,7 +1,7 @@
 # hello-world
-My first Github-Experience
+### 안녕하세요
+저는 ForteDev 입니다.
 
-Hi, Brothers!
+Github에서는 체계적으로 수정할 수 있고 많은 사람들과 효율적으로 동시에 작업할 수 있습니다.
 
-My name is Jong-Sung Park. I live in Incheon, South Korea.
-I want to make many COOL programs with you.
+정말 멋지죠!
